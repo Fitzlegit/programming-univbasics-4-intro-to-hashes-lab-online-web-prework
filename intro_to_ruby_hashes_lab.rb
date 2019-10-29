@@ -46,6 +46,10 @@ def update_counting_hash(hash, key)
     hash[key] += 1
   else
     hash[key] = 1
+<<<<<<< HEAD
   end
   hash
+=======
+  end  
+>>>>>>> a10adb5b3dfbc26c4ee25973e869927628699688
 end
